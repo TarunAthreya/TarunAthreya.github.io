@@ -1,0 +1,30 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #f4f4f4; 
+  padding: 20px;
+  line-height: 1.6;
+}
+
+nav {
+  background-color: #eee;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+
+nav a {
+  padding: 5px 15px;
+  text-decoration: none;
+  color: #005a9c;
+  font-weight: bold;
+}
+h1, h2 {
+  color: #333;
+}
+.gallery-image {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  padding: 5px;
+}
